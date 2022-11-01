@@ -79,7 +79,7 @@ class HomeViewController: UIViewController {
                                      style: .default,
                                      handler: { [weak self] _  in
                                         guard let self = self else { return }
-                                        self.navigationController?.popViewController(animated: true)
+                                        // you can do somthing here
         })
 
         dialogMessage.addAction(okAction)
