@@ -11,5 +11,6 @@ target 'NewsApp' do
     pod 'Kingfisher'
     pod 'Moya/RxSwift'
     pod 'SwiftMessages'
+    pod 'CountryPickerSwift'
 
 end

@@ -2,8 +2,7 @@
 //  UserDefaultsService.swift
 //  BeutiCustomer
 //
-//  Created by Michele on 11/19/19.
-//  Copyright © 2019 Michelle. All rights reserved.
+//  Created by AbdulrhmanNoon on 10/28/20.
 //
 
 import UIKit

@@ -1,5 +1,6 @@
 PODS:
   - Alamofire (5.4.4)
+  - CountryPickerSwift (1.8.2)
   - Kingfisher (7.1.1)
   - Moya/Core (15.0.0):
     - Alamofire (~> 5.0)
@@ -17,6 +18,7 @@ PODS:
   - SwiftMessages/App (9.0.5)
 
 DEPENDENCIES:
+  - CountryPickerSwift
   - Kingfisher
   - Moya/RxSwift
   - RxCocoa
@@ -26,6 +28,7 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - Alamofire
+    - CountryPickerSwift
     - Kingfisher
     - Moya
     - RxCocoa
@@ -35,6 +38,7 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  CountryPickerSwift: b2cd8b391a0222bd9a97d09ea30426303adac810
   Kingfisher: f738f9c4a3415823b8e2985d10aa2d6a9f37bc4d
   Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
   RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
@@ -42,6 +46,6 @@ SPEC CHECKSUMS:
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
   SwiftMessages: 9cca50659fa22bb523b4dd2a958d4442e843a354
 
-PODFILE CHECKSUM: e806145eae282e02ecbecd92896b6694530965f4
+PODFILE CHECKSUM: d313cf8a44793033f13828696dccbd7fe2bb2c25
 
 COCOAPODS: 1.11.3
