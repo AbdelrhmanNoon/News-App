@@ -1,5 +1,5 @@
 # News-App
- This repository related to interview technical task.
+ This repository related to challenge  task.
  In this repository you can fined News-Api implementation using:
  - MVVM
  - RxSwift
